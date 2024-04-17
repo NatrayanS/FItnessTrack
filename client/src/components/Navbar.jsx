@@ -152,7 +152,7 @@ const Navbar = ({ currentUser }) => {
         <NavItems>
           <Navlink to="/">Dashboard</Navlink>
           <Navlink to="/workouts">Workouts</Navlink>
-          {/* <Navlink to="/tutorials">Tutorials</Navlink> */}
+          <Navlink to="/tutorials">Tutorials</Navlink>
           <Navlink to="/blogs">Blogs</Navlink>
           <Navlink to="/contact">Contact</Navlink>
         </NavItems>
