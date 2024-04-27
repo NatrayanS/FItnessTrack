@@ -49,8 +49,8 @@ function Contact() {
                 <strong>Mail-ID :</strong>06ayanfitnessclub@gmail.com
               </p>
               <p>
-                <strong>Address :</strong> Dubai, dubai main road, dubai kurukku
-                santhu, dubai.
+                <strong>Address :</strong> No. 0, this main road, this
+                street,this city 000 000.
               </p>
             </blockquote>
           </div>
