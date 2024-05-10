@@ -280,6 +280,7 @@ export const addWorkout = async (req, res, next) => {
       workouts: parsedWorkouts,
     });
   } catch (err) {
+    console.log(err);
     next(err);
   }
 };
